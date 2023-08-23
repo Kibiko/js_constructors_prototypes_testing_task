@@ -1,0 +1,15 @@
+{
+  "name": "task_constructors_prototypes",
+  "version": "1.0.0",
+  "description": "In this exercise we will explore some of the differences between how classes are defined in Java and JavaScript. We're going to model a car dealership with `Car`, `Dealership` and `Customer` modules including their properties and behaviours.",
+  "main": "Car.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "test:coverage": "jest --coverage --verbose"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.3"
+  }
+}
